@@ -17,5 +17,6 @@ public class MainKontak {
     bukuLain.muatDariBerkas();
     bukuLain.tampilkanSemua();
     System.out.println("Jumlah kontak: " + bukuLain.jumlahKontak());
+    buku.cariKontak("Budi");
     }
 }
