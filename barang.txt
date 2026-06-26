@@ -1,0 +1,5 @@
+Laptop Asus;8500000.0;5
+Mouse Logi;150000.0;15
+Beras 5kg;75000.0;20
+Kemeja Polos;120000.0;10
+Buku Tulis;5000.0;50
